@@ -170,6 +170,7 @@ a {
 .msc {
     height: auto;
     width:500px;
+    margin:10px;
 }
 .SP {
     height: 625px;
